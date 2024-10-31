@@ -1,0 +1,6 @@
+**/logs
+*.log
+debug[01].log
+*.zip
+__pycache__
+.idea
